@@ -1,0 +1,63 @@
+.fig
+{
+  width:500px;
+  height: 750px;
+  top: -10px;
+  position: fixed;
+}
+.fig1{
+    color: black;
+    margin-left: 550px;
+  }
+.fig2{
+    color: black;
+    margin-left: 550px;
+    margin-right: 50px;
+  }
+  .fig3{
+    color: black;
+    margin-left: 550px;
+  }
+  .fig4{
+    color: black;
+    margin-left: 550px;
+  }
+  .fig5{
+    color: black;
+    position: absolute;
+    margin-left: 580px;
+    margin-bottom: 91px;
+    bottom: 333px;
+    left:70px;
+  }
+  .fig6{
+    color: black;
+    margin-left: 550px;
+  
+  }
+  .fig7{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 476px;
+    bottom: -95px;
+    position: absolute;
+  }
+  .fig8{
+    color: black;
+    margin-left: 550px;
+  }
+  .fig9{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 690px;
+    top: 372px;
+    bottom: -135px;
+    position: absolute;
+  }
+  .fig10{
+    margin-left: 550px;
+  }
+  .fig11{
+    color: blue;
+    margin-left: 550px;
+  }

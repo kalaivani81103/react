@@ -1,0 +1,63 @@
+.dog
+{
+  width:500px;
+  height: 750px;
+  top: -10px;
+  position: fixed;
+}
+.dog1{
+    color: black;
+    margin-left: 550px;
+  }
+.dog2{
+    color: black;
+    margin-left: 550px;
+    margin-right: 50px;
+  }
+  .dog3{
+    color: black;
+    margin-left: 550px;
+  }
+  .dog4{
+    color: black;
+    margin-left: 550px;
+  }
+  .dog5{
+    color: black;
+    position: absolute;
+    margin-left: 580px;
+    margin-bottom: 93px;
+    bottom: 333px;
+    left:70px;
+  }
+  .dog6{
+    color: black;
+    margin-left: 550px;
+  
+  }
+  .dog7{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 475px;
+    bottom: -95px;
+    position: absolute;
+  }
+  .dog8{
+    color: black;
+    margin-left: 550px;
+  }
+  .dog9{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 690px;
+    top: 370px;
+    bottom: -135px;
+    position: absolute;
+  }
+  .dog10{
+    margin-left: 550px;
+  }
+  .dog11{
+    color: blue;
+    margin-left: 550px;
+  }

@@ -1,0 +1,63 @@
+.ice
+{
+  width:500px;
+  height: 750px;
+  top: -10px;
+  position: fixed;
+}
+.ice1{
+    color: black;
+    margin-left: 550px;
+  }
+.ice2{
+    color: black;
+    margin-left: 550px;
+    margin-right: 50px;
+  }
+  .ice3{
+    color: black;
+    margin-left: 550px;
+  }
+  .ice4{
+    color: black;
+    margin-left: 550px;
+  }
+  .ice5{
+    color: black;
+    position: absolute;
+    margin-left: 580px;
+    margin-bottom: 134px;
+    bottom: 333px;
+    left:70px;
+  }
+  .ice6{
+    color: black;
+    margin-left: 550px;
+  
+  }
+  .ice7{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 519px;
+    bottom: -95px;
+    position: absolute;
+  }
+  .ice8{
+    color: black;
+    margin-left: 550px;
+  }
+  .ice9{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 690px;
+    top: 327px;
+    bottom: -135px;
+    position: absolute;
+  }
+  .ice10{
+    margin-left: 550px;
+  }
+  .ice11{
+    color: blue;
+    margin-left: 550px;
+  }

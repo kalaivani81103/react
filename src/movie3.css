@@ -1,0 +1,63 @@
+.cat
+{
+  width:500px;
+  height: 750px;
+  top: -10px;
+  position: fixed;
+}
+.cat1{
+    color: black;
+    margin-left: 550px;
+  }
+.cat2{
+    color: black;
+    margin-left: 550px;
+    margin-right: 50px;
+  }
+  .cat3{
+    color: black;
+    margin-left: 550px;
+  }
+  .cat4{
+    color: black;
+    margin-left: 550px;
+  }
+  .cat5{
+    color: black;
+    position: absolute;
+    margin-left: 580px;
+    margin-bottom: 114px;
+    bottom: 333px;
+    left:70px;
+  }
+  .cat6{
+    color: black;
+    margin-left: 550px;
+  
+  }
+  .cat7{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 498px;
+    bottom: -95px;
+    position: absolute;
+  }
+  .cat8{
+    color: black;
+    margin-left: 550px;
+  }
+  .cat9{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 690px;
+    top: 349px;
+    bottom: -135px;
+    position: absolute;
+  }
+  .cat10{
+    margin-left: 550px;
+  }
+  .cat11{
+    color: blue;
+    margin-left: 550px;
+  }

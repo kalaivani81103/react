@@ -1,0 +1,63 @@
+.egg
+{
+  width:500px;
+  height: 750px;
+  top: -10px;
+  position: fixed;
+}
+.egg1{
+    color: black;
+    margin-left: 550px;
+  }
+.egg2{
+    color: black;
+    margin-left: 550px;
+    margin-right: 50px;
+  }
+  .egg3{
+    color: black;
+    margin-left: 550px;
+  }
+  .egg4{
+    color: black;
+    margin-left: 550px;
+  }
+  .egg5{
+    color: black;
+    position: absolute;
+    margin-left: 580px;
+    margin-bottom: 113px;
+    bottom: 333px;
+    left:70px;
+  }
+  .egg6{
+    color: black;
+    margin-left: 550px;
+  
+  }
+  .egg7{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 497px;
+    bottom: -95px;
+    position: absolute;
+  }
+  .egg8{
+    color: black;
+    margin-left: 550px;
+  }
+  .egg9{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 690px;
+    top: 349px;
+    bottom: -135px;
+    position: absolute;
+  }
+  .egg10{
+    margin-left: 550px;
+  }
+  .egg11{
+    color: blue;
+    margin-left: 550px;
+  }

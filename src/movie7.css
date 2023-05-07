@@ -1,0 +1,63 @@
+.gun
+{
+  width:500px;
+  height: 750px;
+  top: -10px;
+  position: fixed;
+}
+.gun1{
+    color: black;
+    margin-left: 550px;
+  }
+.gun2{
+    color: black;
+    margin-left: 550px;
+    margin-right: 50px;
+  }
+  .gun3{
+    color: black;
+    margin-left: 550px;
+  }
+  .gun4{
+    color: black;
+    margin-left: 550px;
+  }
+  .gun5{
+    color: black;
+    position: absolute;
+    margin-left: 580px;
+    margin-bottom: 113px;
+    bottom: 333px;
+    left:70px;
+  }
+  .gun6{
+    color: black;
+    margin-left: 550px;
+  
+  }
+  .gun7{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 497px;
+    bottom: -95px;
+    position: absolute;
+  }
+  .gun8{
+    color: black;
+    margin-left: 550px;
+  }
+  .gun9{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 690px;
+    top: 349px;
+    bottom: -135px;
+    position: absolute;
+  }
+  .gun10{
+    margin-left: 550px;
+  }
+  .gun11{
+    color: blue;
+    margin-left: 550px;
+  }

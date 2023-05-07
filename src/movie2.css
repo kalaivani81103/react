@@ -1,0 +1,65 @@
+.banana
+{
+  width:500px;
+  height: 750px;
+  top: -10px;
+  position: fixed;
+
+}
+.banana1{
+  color: black;
+  margin-left: 550px;
+}
+.banana2{
+  color: black;
+  margin-left: 550px;
+  margin-right: 50px;
+}
+.banana3{
+  color: black;
+  margin-left: 550px;
+}
+.banana4{
+  color: black;
+  margin-left: 550px;
+  
+}
+.banana5{
+  color: black;
+  position: absolute;
+  margin-left: 580px;
+  margin-bottom: 5px;
+  bottom: 333px;
+  left:70px;
+}
+.banana6{
+  color: black;
+  margin-left: 550px;
+
+}
+.banana7{
+  color: black;
+  margin-left: 650px;
+  margin-bottom: 390px;
+  bottom: -95px;
+  position: absolute;
+}
+.banana8{
+  color: black;
+  margin-left: 550px;
+}
+.banana9{
+  color: black;
+  margin-left: 650px;
+  margin-bottom: 690px;
+  top: 455px;
+  bottom: -135px;
+  position: absolute;
+}
+.banana10{
+  margin-left: 550px;
+}
+.banana11{
+  color: blue;
+  margin-left: 550px;
+}

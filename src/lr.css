@@ -1,0 +1,28 @@
+.lbody1{
+    width:100vw;
+    height: 100vh;
+    background-color: lightskyblue;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lbody{
+    display: flex;
+    width:90%;
+    height:90%; 
+    padding: 0 100px;
+}
+.lbody p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.lbody12{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height:100%;
+    background-color: white;
+}

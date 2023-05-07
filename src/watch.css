@@ -1,0 +1,29 @@
+.wt-cont1{
+    width:100vw;
+    height: 100vh;
+    background-image: url("./assests/lpe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wt-cont{
+    position: absolute;
+    bottom:100px;
+    left:100px;
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.wt-cont12{
+    color: black;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 600;
+}
+.wt-cont12:hover{
+    color:red;
+    text-decoration: underline;
+}

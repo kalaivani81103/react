@@ -1,0 +1,63 @@
+.jug
+{
+  width:500px;
+  height: 750px;
+  top: -10px;
+  position: fixed;
+}
+.jug1{
+    color: black;
+    margin-left: 550px;
+  }
+.jug2{
+    color: black;
+    margin-left: 550px;
+    margin-right: 50px;
+  }
+  .jug3{
+    color: black;
+    margin-left: 550px;
+  }
+  .jug4{
+    color: black;
+    margin-left: 550px;
+  }
+  .jug5{
+    color: black;
+    position: absolute;
+    margin-left: 580px;
+    margin-bottom: 134px;
+    bottom: 333px;
+    left:70px;
+  }
+  .jug6{
+    color: black;
+    margin-left: 550px;
+  
+  }
+  .jug7{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 519px;
+    bottom: -95px;
+    position: absolute;
+  }
+  .jug8{
+    color: black;
+    margin-left: 550px;
+  }
+  .jug9{
+    color: black;
+    margin-left: 650px;
+    margin-bottom: 690px;
+    top: 327px;
+    bottom: -135px;
+    position: absolute;
+  }
+  .jug10{
+    margin-left: 550px;
+  }
+  .jug11{
+    color: blue;
+    margin-left: 550px;
+  }
